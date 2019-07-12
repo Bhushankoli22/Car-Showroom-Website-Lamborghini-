@@ -1,0 +1,67 @@
+body{
+    
+    background-color: #FFFFFF;
+    color: #000000;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    line-height: 1.6em;
+    margin: 0;
+    padding: 0;
+    position: relative;
+}
+
+.page-header{
+ 
+    background-color: white;
+    margin: 0;
+    padding: 0;
+    position: relative;
+    
+}
+
+.navbar{
+    background-color: black;
+}
+
+.navbar a{
+    color: black;
+}
+
+.ShowBox{
+    padding: 0;
+    margin-top: 1%;
+    position: relative;
+    background-color: white;
+}
+
+.Marquee{
+    padding: 0;
+    position: relative;
+    margin-top: 1%;
+    background-color: black;
+    color: white;
+}
+
+.footer1{
+    
+    margin-top: 1%;
+    position: relative;
+    background-color: darkgray;
+    color: white;
+    
+}
+
+.VideoBar{
+    padding: 0;
+    position: relative;
+    margin-top: 1%;
+    background-color: black;
+}
+
+.heading{
+    
+    padding: 0;
+    position: relative;
+    margin-top: 1%;
+    background-color: white;
+}
